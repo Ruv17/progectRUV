@@ -6,6 +6,6 @@
 int main()
 {
     std::cout << "Hello World!(Rushitskaya)\n";
-    std::cout << "Hello! (Kulebakina Sonya)";
+    std::cout << "Hello, Yulia (Kulebakina Sonya)";
 }
 
